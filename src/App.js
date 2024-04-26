@@ -7,3 +7,4 @@ function App() {
 }
 
 export default App;
+<link href="https://fonts.googleapis.com/css?family=Poppins:regular,500,700,900" rel="stylesheet" />
